@@ -1,0 +1,39 @@
+[submodule "Marvel"]
+	path = Marvel
+	url = https://github.com/marvelapp/marvel-sketch
+[submodule "Radius"]
+	path = Radius
+	url = https://github.com/arjenvr/sketch-radius.git
+[submodule "Data-Populator"]
+	path = Data-Populator
+	url = https://github.com/preciousforever/sketch-data-populator.git
+[submodule "Unlinker"]
+	path = Unlinker
+	url = https://github.com/eivindbohler/Sketch-Unlinker.git
+[submodule "Consistency"]
+	path = Consistency
+	url = https://github.com/getflourish/Consistency.git
+[submodule "Button-Relabeler"]
+	path = Button-Relabeler
+	url = https://github.com/kenmoore/sketch-relabel-button.git
+[submodule "Generate-GIF"]
+	path = Generate-GIF
+	url = https://github.com/nathco/Generate-GIF.git
+[submodule "SketchingOn"]
+	path = SketchingOn
+	url = https://github.com/WorkingOn/SketchingOn.git
+[submodule "Type-Sync"]
+	path = Type-Sync
+	url = https://github.com/nolastan/sync.sketchplugin.git
+[submodule "Palettes"]
+	path = Palettes
+	url = https://github.com/andrewfiorillo/sketch-palettes.git
+[submodule "Content-Generator"]
+	path = Content-Generator
+	url = https://github.com/timuric/Content-generator-sketch-plugin.git
+[submodule "Smartboards"]
+	path = Smartboards
+	url = https://github.com/elihorne/smartboards.git
+[submodule "Zeplin"]
+	path = Zeplin
+	url = https://github.com/zeplin/zeplin-sketch-plugin
