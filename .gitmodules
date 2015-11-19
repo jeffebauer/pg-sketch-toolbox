@@ -37,3 +37,6 @@
 [submodule "Zeplin"]
 	path = Zeplin
 	url = https://github.com/zeplin/zeplin-sketch-plugin
+[submodule "Fluid"]
+	path = Fluid
+	url = https://github.com/matt-curtis/Fluid-for-Sketch.git

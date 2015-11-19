@@ -54,3 +54,7 @@ https://github.com/elihorne/smartboards.git
 **Zeplin**
 Easily export artboards to Zeplin.
 https://github.com/elihorne/smartboards.git
+
+**Fluid**
+Fluid is a Sketch plugin that provides a means to create more constraint-based, responsive designs. It is based on Auto Layout constraints.
+https://github.com/matt-curtis/Fluid-for-Sketch.git
