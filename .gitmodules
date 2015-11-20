@@ -40,3 +40,6 @@
 [submodule "Fluid"]
 	path = Fluid
 	url = https://github.com/matt-curtis/Fluid-for-Sketch.git
+[submodule "RenameIt"]
+	path = RenameIt
+	url = https://github.com/rodi01/RenameIt.git
